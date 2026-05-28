@@ -10,10 +10,10 @@ Please select your language.
 
 # Sprache auswählen / Select Language
 
-🇩🇪 Deutsch
+🇩🇪 [Deutsch](https://lucamaximal.github.io/Cloury-Info/de/)
 Weiter zur deutschen Version.
 
-🇬🇧 English
+🇬🇧 [English](https://lucamaximal.github.io/Cloury-Info/en/)
 Continue to the English version.
 
 ---
@@ -25,3 +25,4 @@ Cloury is currently under active development.
 Some pages, buttons and systems may still be unavailable or unfinished.
 
 Thank you for your understanding.
+
