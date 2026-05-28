@@ -27,4 +27,4 @@ Some pages, buttons and systems may still be unavailable or unfinished.
 Thank you for your understanding.
 
 ![alt text][logo]
-[logo]: https://github.com/LucaMaximal/images/icon48.png "Logo Title Text 1"
+[logo]: https://github.com/LucaMaximal/images/IMG_4977.png"Logo Title Text 1"
