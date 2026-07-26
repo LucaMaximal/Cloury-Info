@@ -1,111 +1,103 @@
-# Cloury
+# 📜 Cloury Network Regelwerk
 
-### Next Generation Infrastructure
+Willkommen im offiziellen **Regelwerk des Cloury Networks**.
 
-Willkommen bei Cloury.
+Auf dieser Seite findest du alle wichtigen Regeln und Richtlinien, die für das Cloury Network gelten. Das Regelwerk ist in verschiedene Bereiche aufgeteilt, damit du schnell die für dich relevanten Informationen findest.
 
-Cloury ist ein modernes Minecraft- und Infrastrukturprojekt mit Fokus auf:
-
-* moderne Systeme
-* skalierbare Architektur
-* eigene Cloud-Infrastruktur
-* Performance
-* Sicherheit
-* modernes UI/UX Design
-
-Die Plattform befindet sich aktuell in aktiver Entwicklung.
-
-Einige Funktionen, Seiten oder Links sind möglicherweise noch nicht verfügbar.
+> ⚠️ **Das Regelwerk befindet sich derzeit noch im Aufbau.**
+>
+> Weitere Bereiche und Regeln werden nach und nach ergänzt und können sich während der Aufbauphase noch ändern.
 
 ---
 
-# Inhaltsverzeichnis
+## 🌐 Allgemeines Regelwerk
 
-## Projekt
+Die **allgemeinen Regeln** bilden die Grundlage des Cloury Networks.
 
-* Über Cloury
-* Infrastruktur
-* Netzwerk Aufbau
-* Technologien
-* Entwicklung
+Sie gelten grundsätzlich für das gesamte Netzwerk und alle Bereiche, sofern für einen bestimmten Bereich keine abweichende oder ergänzende Regel festgelegt wurde.
 
-## Website
-
-* Status
-* Geplante Features
-* Dashboard
-* API
-* Dokumentation
-
-## Community
-
-* Discord
-* YouTube
-* Socials
+→ [Allgemeines Regelwerk](general/index.md)
 
 ---
 
-# Aktueller Status
+## 🎮 Spiele
 
-## Verfügbar
+Einzelne Spiele können zusätzlich zu den allgemeinen Regeln eigene Regeln besitzen.
 
-* Hauptwebsite
-* Design System
-* Branding
-* Infrastruktur Planung
-* Frontend Entwicklung
+Diese Regeln können besondere Vorgaben enthalten, die speziell auf die jeweiligen Spielmechaniken und den jeweiligen Spielmodus abgestimmt sind.
 
-## In Entwicklung
+Game-Regeln können:
 
-* Dashboard
-* Account System
-* Live APIs
-* Server Status
-* Public Dokumentation
-* YouTube Integration
+* zusätzliche Regeln festlegen,
+* bestimmte Situationen genauer definieren,
+* und in ihrem jeweiligen Geltungsbereich allgemeine Regeln ausdrücklich außer Kraft setzen oder abweichend regeln.
+
+→ [Spielregeln](games/index.md)
 
 ---
 
-# Infrastruktur Übersicht
+## 🎉 Events
 
-```txt
-Proxy Layer
- ├── Lobby
- ├── Practice
- ├── Event
- └── Future Gamemodes
+Für besondere Events können zeitlich begrenzte Regeln gelten.
 
-Cloud Infrastructure
- ├── EU Node 1
- ├── EU Node 2
- ├── Monitoring
- └── Load Balancing
+Diese Event-Regeln gelten nur für das jeweilige Event und ergänzen oder ersetzen die Regeln, die für den jeweiligen Event-Bereich ausdrücklich abweichend festgelegt wurden.
 
-Backend Services
- ├── API
- ├── Authentication
- ├── Database Cluster
- └── Dashboard
-```
+Hier findest du:
+
+* aktuelle Event-Regeln
+* Regeln kürzlich vergangener Events
+
+Regeln vergangener Events bleiben nach Ende eines Events noch für einen begrenzten Zeitraum verfügbar.
+
+→ [Event-Regeln](events/index.md)
 
 ---
 
-# Hinweis
+## 👥 Team-Regelwerk
 
-Mehrere Bereiche der Website befinden sich noch im Aufbau.
+Das Team-Regelwerk enthält die verbindlichen Regeln und Richtlinien für Teammitglieder des Cloury Networks.
 
-Deshalb können manche:
+Je nach Rang, Aufgabe und Zuständigkeitsbereich können zusätzliche Regelungen gelten.
 
-* Buttons
-* Links
-* Seiten
-* APIs
-* Features
-
-noch deaktiviert oder unvollständig sein.
+→ [Team-Regelwerk](team/index.md)
 
 ---
 
-# Cloury Development State
+## ⚖️ Strafen
 
-Early Development / Active Building
+Verstöße gegen das Regelwerk können entsprechende Maßnahmen nach sich ziehen.
+
+Welche Maßnahmen grundsätzlich möglich sind und welche Regelungen dabei gelten, findest du im Bereich **Strafen**.
+
+→ [Strafen](punishments/index.md)
+
+---
+
+## 📌 Geltungsbereich und Regelhierarchie
+
+Grundsätzlich gilt folgende Regelhierarchie:
+
+**Allgemeine Regeln**
+↓
+**Game-Regeln**
+↓
+**Event-Regeln**
+
+Spezielle Regeln gelten immer nur innerhalb ihres jeweiligen Geltungsbereichs.
+
+Wenn eine spezielle Regel einer allgemeineren Regel ausdrücklich widerspricht, gilt die spezielle Regel für den jeweiligen Geltungsbereich.
+
+Beispiel:
+
+> Eine allgemeine Regel verbietet eine bestimmte Aktion.
+> Eine Game-Regel erlaubt diese Aktion ausdrücklich innerhalb eines bestimmten Spiels.
+>
+> In diesem Fall gilt die Game-Regel für dieses Spiel.
+
+Ohne eine ausdrückliche abweichende Regelung bleiben die allgemeinen Regeln weiterhin gültig.
+
+---
+
+**Danke, dass du dir die Zeit nimmst, die Regeln des Cloury Networks zu lesen und einzuhalten.**
+
+**Viel Spaß auf Cloury!**
