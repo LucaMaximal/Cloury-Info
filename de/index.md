@@ -53,7 +53,7 @@ Regeln vergangener Events bleiben nach Ende eines Events noch für einen begrenz
 
 ---
 
-## 👥 Team-Regelwerk
+## 👥 Team-Regelwerk [Nur für Team]
 
 Das Team-Regelwerk enthält die verbindlichen Regeln und Richtlinien für Teammitglieder des Cloury Networks.
 
